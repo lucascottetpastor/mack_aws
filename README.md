@@ -1,3 +1,1 @@
-# Laboratorio Mack Sistemas Operacionais 04G12
-
-# RA: 10409353
+# Laboratorio Mackenzie Sistemas Operacionais
